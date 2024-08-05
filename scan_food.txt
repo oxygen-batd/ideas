@@ -1,7 +1,8 @@
 Yêu Cầu Dự Án: Ứng Dụng Quét Thực Phẩm và Đề Xuất Món Ăn
 
 1. Giới thiệu Dự Án
-Ứng dụng quét thực phẩm và đề xuất món ăn là một công cụ di động giúp người dùng nhận diện các loại thực phẩm như thịt bò, trứng, rau củ và đưa ra các gợi ý về món ăn có thể chế biến từ những nguyên liệu đó. Ứng dụng sử dụng công nghệ nhận diện hình ảnh và cơ sở dữ liệu món ăn để cung cấp các gợi ý món ăn hữu ích và hướng dẫn chế biến.
+Ứng dụng quét thực phẩm và đề xuất món ăn là một công cụ di động giúp người dùng nhận diện các loại thực phẩm như thịt bò, trứng, rau củ và đưa ra các gợi ý về món ăn có thể chế biến từ những nguyên liệu đó. 
+Ứng dụng sử dụng công nghệ nhận diện hình ảnh và cơ sở dữ liệu món ăn để cung cấp các gợi ý món ăn hữu ích và hướng dẫn chế biến.
 
 2. Mục Tiêu Dự Án
 Nhận diện thực phẩm: Xác định và phân loại các loại thực phẩm từ hình ảnh quét.
